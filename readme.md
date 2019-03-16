@@ -1,6 +1,6 @@
 | Zone A | Latest Address 👇 | Service | Status |
 | :----: | :----: | :----: | :----: |
-| Address 1 | http://www.ssmilo.vip.hk| Open| 
+| Address 1 | http://ssmilo.vip.hk/| Open| 
 | Address 2 | http://www.ssmilo.u8888.cn| open| 
 | Address 3 | http://www.ssmilo.net| Close| 
 
