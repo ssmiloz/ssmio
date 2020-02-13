@@ -1,10 +1,9 @@
 | Zone A | Latest Address 👇 | Service | Status |
 | :----: | :----: | :----: | :----: |
-| Address 1 | http://ssmilo.vip.hk/| Close| 
-| Address 2 | http://ssmilo.u888.cn/| Open| 
-| Address 3 | http://ssmilo.info.tm/| Open| 
-| Address 4 | http://www.ssmilo.uk.to| Open| 
-| Address 5 | http://www.ssmilo.net| Close| 
+| Address 1 | http://ssmilo.uk.to/| Open| 
+| Address 2 | http://ssmilo.my.to/| Open| 
+| Address 3 | http://ssmilo.info.tm/| Closed| 
+
 
 
 ### Description
